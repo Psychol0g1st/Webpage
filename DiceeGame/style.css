@@ -9,7 +9,9 @@ body{
 .refresh{
 	position:relative;
 	color: black;
-	font-family: 'Lobster';
+	font-family: 'Barlow Condensed';
+	font-weight: 700;
+	font-style: italic;
 	height: 22rem;
 }
 .msg{
@@ -36,7 +38,7 @@ body{
 .player-title{
 	color: #ffc2c2;
 	font-size: 2rem;
-	font-family: 'Indie Flower';
+	font-family: 'Damion';
 	text-shadow: 0 0 5px #ec2024, 0 0 10px #e7585c, 0 0 20px #e46d71, 0 0 30px #de8287, 0 0 40px #d5a0a6, 0 0 55px #d0b3ba;
 }
 h3{
@@ -57,7 +59,8 @@ img{
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #0a52b2;
 	font-size: 2rem;
-	font-family: 'Indie Flower';
+	font-family: 'Barlow Condensed';
+	font-weight: 600;
 
 }
 .fas{
